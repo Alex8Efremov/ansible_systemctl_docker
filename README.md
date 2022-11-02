@@ -4,4 +4,4 @@ https://github.com/geerlingguy/docker-ubuntu2004-ansible/blob/master/Dockerfile
 и
 https://github.com/cruizba/ubuntu-dind
 ## Нужно  изменить 
-Docker installation Вынести в шелл скрипт, подумать.
+Docker installation Вынести в шелл скрипт, подумать.# ansible_systemctl_docker

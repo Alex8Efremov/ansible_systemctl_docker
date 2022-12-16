@@ -7,3 +7,6 @@ up:
 
 build:
 	docker build -t aleksefremov/ansible:ubuntu_systemctl_docker .
+
+push:
+	docker push aleksefremov/ansible:ubuntu_systemctl_docker
